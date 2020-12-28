@@ -8,5 +8,4 @@
   :author "Angel Cortez <acort3255@gmail.com>"
   :maintainer "Angel Cortez <acort3255@gmail.com>"
   :homepage "https://github.com/angel-cortez/cl-graphql"
-  :serial T
-  :components ((:file "package")))
+  :depends-on ("language"))
